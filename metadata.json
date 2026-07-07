@@ -2,19 +2,21 @@
   "htop": {
     "name": "htop",
     "version": "3.3.0",
-    "filename": "htop-3.3.0.fps",
+    "filename": "system-monitors/htop-3.3.0.fps",
     "dependencies": []
   }, 
   "nano": {
     "name": "nano",
-    "version": "7.2",
-    "filename": "nano-7.2.fps",
-    "dependencies": []
+    "version": "9.1",
+    "filename": "text-editors/nano-9.1.fps",
+    "category": "text-editors",
+    "dependencies": [],
+    "description": "Um editor de texto CLI pequeno, amigável e eficiente."
   },
   "fastfetch": {
     "name": "fastfetch",
     "version": "2.65.2",
-    "filename": "fastfetch-2.65.2.fps",
+    "filename": "utils/fastfetch-2.65.2.fps",
     "dependencies": [],
     "description": "Uma ferramenta de informação do sistema semelhante ao neofetch, mas extremamente rápida escrita em C."
   }
