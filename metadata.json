@@ -2,26 +2,19 @@
   "htop": {
     "name": "htop",
     "version": "3.3.0",
-    "filename": "htop-3.3.0.tar.gz",
+    "filename": "htop-3.3.0.fps",
     "dependencies": []
-  },
-  "hello": {
-    "name": "hello",
-    "version": "1.0.0",
-    "filename": "hello-1.0.0.tar.gz",
-    "dependencies": [],
-    "description": "Um pacote de testes simples para validar o gerenciador FPS."
-  },
+  }, 
   "nano": {
     "name": "nano",
     "version": "7.2",
-    "filename": "nano-7.2.tar.gz",
+    "filename": "nano-7.2.fps",
     "dependencies": []
   },
   "fastfetch": {
     "name": "fastfetch",
     "version": "2.65.2",
-    "filename": "fastfetch-2.65.2.tar.gz",
+    "filename": "fastfetch-2.65.2.fps",
     "dependencies": [],
     "description": "Uma ferramenta de informação do sistema semelhante ao neofetch, mas extremamente rápida escrita em C."
   }
