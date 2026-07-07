@@ -5,6 +5,13 @@
     "filename": "htop-3.3.0.tar.gz",
     "dependencies": []
   },
+  "hello": {
+    "name": "hello",
+    "version": "1.0.0",
+    "filename": "hello-1.0.0.tar.gz",
+    "dependencies": [],
+    "description": "Um pacote de testes simples para validar o gerenciador FPS."
+  },
   "nano": {
     "name": "nano",
     "version": "7.2",
