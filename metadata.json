@@ -1,0 +1,14 @@
+{
+  "htop": {
+    "name": "htop",
+    "version": "3.3.0",
+    "filename": "htop-3.3.0.tar.gz",
+    "dependencies": []
+  },
+  "nano": {
+    "name": "nano",
+    "version": "7.2",
+    "filename": "nano-7.2.tar.gz",
+    "dependencies": []
+  }
+}
