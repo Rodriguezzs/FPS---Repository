@@ -3,6 +3,7 @@
     "name": "htop",
     "version": "3.3.0",
     "filename": "system-monitors/htop-3.3.0.fps",
+    "category": "system-monitors",
     "dependencies": []
   }, 
   "nano": {
@@ -17,6 +18,7 @@
     "name": "fastfetch",
     "version": "2.65.2",
     "filename": "utils/fastfetch-2.65.2.fps",
+    "category": "utils",
     "dependencies": [],
     "description": "Uma ferramenta de informação do sistema semelhante ao neofetch, mas extremamente rápida escrita em C."
   }
