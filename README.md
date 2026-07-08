@@ -70,3 +70,4 @@ Instala o binário em `~/.local/bin` e configura as variáveis de ambiente autom
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/Rodriguezzs/FPS---Repository/main/scripts/install.sh | sh
+``` 
