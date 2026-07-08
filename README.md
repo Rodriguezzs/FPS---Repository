@@ -66,5 +66,5 @@ Para instalar o FPS na sua máquina de forma totalmente automatizada através de
 
 ### 👤 Usuário Comum (Instalação Portátil na Home)
 Instala o binário em `~/.local/bin` e configura as variáveis de ambiente automaticamente:
-```bash
+```
 curl -sSL https://raw.githubusercontent.com/Rodriguezzs/FPS---Repository/main/scripts/install.sh | sh
