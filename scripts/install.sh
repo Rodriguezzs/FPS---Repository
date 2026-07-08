@@ -40,7 +40,7 @@ fi
 echo "[FPS] Aplicando permissões de execução (chmod +x)..."
 chmod +x "$TARGET_DIR/fps"
 
-printf "${GREEN}[✓] FPS instalado com sucesso em: $TARGET_DIR/fps${CLEAR}\n"
+printf "${GREEN}[✓] FPS instalado com sucesso em: $TARGET_DIR fps${CLEAR}\n"
 
 # Inicializa as tabelas locais rodando uma chamada rápida
 echo "[FPS] Inicializando banco de dados de metadados padrão..."
