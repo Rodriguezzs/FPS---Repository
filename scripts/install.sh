@@ -18,7 +18,7 @@ BIN_URL="https://github.com/Rodriguezzs/FPS---Repository/raw/refs/heads/main/bin
 # Identifica o nível de privilégio do usuário
 if [ "$(id -u)" -eq 0 ]; then
     echo "[FPS] Modo detectado: GLOBAL (Instalação no Sistema)"
-    TARGET_DIR="/usr/local/bin"
+    TARGET_DIR="/usr/bin/"
     mkdir -p /etc/fps/repos.d
 else
     echo "[FPS] Modo detectado: PORTÁTIL (Instalação na Home)"
