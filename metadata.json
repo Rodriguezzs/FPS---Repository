@@ -1,25 +1,29 @@
 {
-  "htop": {
+    "htop": {
     "name": "htop",
-    "version": "3.3.0",
-    "filename": "system-monitors/htop-3.3.0.fps",
+    "version": "3.5.1",
+    "filename": "system-monitors/htop-3.5.1.fps",
     "category": "system-monitors",
+    "description": "O clássico gerenciador de consumo leve e eficiente",
+    "sha256": "c773a98c066dd8fb70db9ee747e93053594c5a0a823d9c6c1de35884cef691b1",
     "dependencies": []
-  }, 
-  "nano": {
+  },
+    "nano": {
     "name": "nano",
     "version": "9.1",
-    "filename": "text-editors/nano-9.1.fps",
-    "category": "text-editors",
-    "dependencies": [],
-    "description": "Um editor de texto CLI pequeno, amigável e eficiente."
+    "filename": "app-editors/nano-9.1.fps",
+    "category": "app-editors",
+    "description": "O clássico editor de texto CLI, amigável e leve",
+    "sha256": "1b5543458dfeeb31ce1902910dcc04964e0de25616e3430cad4bac4f3ade17e1",
+    "dependencies": []
   },
-  "fastfetch": {
+    "fastfetch": {
     "name": "fastfetch",
     "version": "2.65.2",
     "filename": "utils/fastfetch-2.65.2.fps",
     "category": "utils",
-    "dependencies": [],
-    "description": "Uma ferramenta de informação do sistema semelhante ao neofetch, mas extremamente rápida escrita em C."
+    "description": "Uma ferramenta de informação do sistema semelhante ao neofetch, mas extremamente rápida escrita em C.",
+    "sha256": "adf2fdb602ae4e80d55c50d5623c3163bcdebb48740453b812299a30c49e8c62",
+    "dependencies": []
   }
 }
