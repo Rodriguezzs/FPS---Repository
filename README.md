@@ -44,7 +44,7 @@ O FPS detecta automaticamente os níveis de privilégio do usuário no momento d
 ## 💻 Guia Prático de Comandos
 
 ### Gerenciamento Principal de Softwares (Lote)
-```bash
+``
 # Sincroniza a árvore de metadados locais com todos os servidores ativos
 fps update
 
