@@ -18,7 +18,7 @@ BIN_URL="https://github.com/Rodriguezzs/FPS---Repository/raw/refs/heads/main/bin
 # Identifica o nível de privilégio do usuário
 if [ "$(id -u)" -eq 0 ]; then
     echo "[FPS] Modo detectado: GLOBAL (Instalação no Sistema)"
-    TARGET_DIR="/usr/bin"
+    TARGET_DIR="/usr/bin/"
     mkdir -p /etc/fps/repos.d
 else
     echo "[FPS] Modo detectado: PORTÁTIL (Instalação na Home)"
@@ -40,7 +40,7 @@ fi
 echo "[FPS] Aplicando permissões de execução (chmod +x)..."
 chmod +x "$TARGET_DIR/fps"
 
-printf "${GREEN}[✓] FPS instalado com sucesso em: $TARGET_DIR"/"fps${CLEAR}\n"
+printf "${GREEN}[✓] FPS instalado com sucesso em: $TARGET_DIRfps${CLEAR}\n"
 
 # Inicializa as tabelas locais rodando uma chamada rápida
 echo "[FPS] Inicializando banco de dados de metadados padrão..."
