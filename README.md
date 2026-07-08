@@ -59,7 +59,6 @@ fps remove nano htop
 
 # Analisa e executa o upgrade geral de todos os softwares desatualizados no sistema
 fps dist-upgrade
----
 
 ## 💾 Instalação Rápida (Universal via curl)
 
