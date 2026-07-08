@@ -13,7 +13,7 @@ echo "       Instalador Automatizado do FPS v0.8.6"
 echo "${BLUE}=====================================================${CLEAR}"
 
 # URL direta de onde o script vai puxar o binário compilado do FPS
-BIN_URL="https://raw.githubusercontent.com/Rodriguezzs/FPS---Repository/bin/fps"
+BIN_URL="https://github.com/Rodriguezzs/FPS---Repository/raw/refs/heads/main/bin/fps"
 
 # Identifica o nível de privilégio do usuário
 if [ "$(id -u)" -eq 0 ]; then
