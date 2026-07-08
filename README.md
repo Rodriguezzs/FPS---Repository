@@ -10,7 +10,7 @@ Este repositório atua como o **servidor oficial de metadados e distribuição d
 
 ---
 
-## 🛠️ Recursos Atuais (v0.8.6)
+## 🛠️ Recursos Atuais (v0.8.8)
 * **Arquitetura Multi-Repositório**: Permite adicionar, listar e remover múltiplos servidores de software de forma dinâmica.
 * **Resolução de Dependências com Trava de Segurança**: Se um pacote exigir dependências ausentes ou corrompidas, a transação é interrompida com segurança.
 * **Modo Rootless Dinâmico**: Pode ser instalado globalmente (como Root) ou de forma 100% isolada e portátil dentro do diretório `$HOME` do usuário comum.
@@ -25,4 +25,4 @@ Para instalar o FPS na sua máquina de forma totalmente automatizada através de
 ### 👤 Usuário Comum (Instalação Portátil na Home)
 Instala o binário em `~/.local/bin` e configura as variáveis de ambiente automaticamente:
 ```bash
-curl -sSL [https://raw.githubusercontent.com/Rodriguezzs/FPS---Repository/main/scripts/install.sh](https://raw.githubusercontent.com/Rodriguezzs/FPS---Repository/main/scripts/install.sh) | sh
+curl -sSL https://raw.githubusercontent.com/Rodriguezzs/FPS---Repository/main/scripts/install.sh | sh
